@@ -100,7 +100,6 @@ opportunity to grow in my career while concurrently contributing to the developm
 
 ---
 
-📊**Stats** <br>
 
 [![](https://github-readme-stats.vercel.app/api?username=dv64bit&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=dv64bit&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
