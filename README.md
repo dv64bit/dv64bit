@@ -100,13 +100,10 @@ opportunity to grow in my career while concurrently contributing to the developm
 
 ---
 
-<br />
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dv64bit&theme=radical&show_icons=true"
-        width="450" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dv64bit&layout=compact&theme=radical"
-        width="400" />
-</p>
+📊**Stats** <br>
+
+[![](https://github-readme-stats.vercel.app/api?username=dv64bit&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=dv64bit&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -120,3 +117,6 @@ opportunity to grow in my career while concurrently contributing to the developm
 ](https://blockchain64bit.blogspot.com/2021/05/blockchain-is-expensive-and-not-scalable.html)
 - [Blockchain can't be hacked?](https://blockchain64bit.blogspot.com/2021/05/blockchain-cant-be-hacked.html)
 <!-- BLOG-POST-LIST:END -->
+
+
+
