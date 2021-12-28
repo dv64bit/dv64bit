@@ -100,7 +100,8 @@ opportunity to grow in my career while concurrently contributing to the developm
 
 ---
 
-📊**Stats** <br>
+ <br>
+<h2 align="center">📊Stats</h2>
 
 <a href="https://app.daily.dev/dv64bit"><img src="https://api.daily.dev/devcards/537ae5edec5e48549cb0a3b97145fdd6.png?r=nbe" width="400" alt="Darshan Verma's Dev Card"/></a>
 
