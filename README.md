@@ -26,6 +26,10 @@
 
 <h2 align="center">My favorite projects 💻</h2>
 <br />
+https://dv64bit.github.io/bloconnnect/
+    <a href="https://dv64bit.github.io/bloconnnect/">
+        https://dv64bit.github.io/bloconnnect/
+    </a>
 
 <!-- <p align="center">
     <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
