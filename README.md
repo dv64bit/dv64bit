@@ -34,8 +34,8 @@
 
 <h2 align="center">My favorite projects 💻</h2>
 <br />
-    <a align="center" href="https://dv64bit.github.io/bloconnnect/">
-        https://dv64bit.github.io/bloconnnect/
+    <a align="center" href="#">
+        Updating...
     </a>
 
 <br />
