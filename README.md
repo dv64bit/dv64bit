@@ -3,7 +3,7 @@
 </h1>
 </p>
 <p align="center">
-    <a href="https://www.linkedin.com/in/darshan-verma-500509161/"><img
+    <a href="https://www.linkedin.com/in/dv64bit/"><img
             src="https://img.shields.io/badge/linkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn" /></a>&nbsp;
     <a href="http://instagram.com/dv1502"><img
@@ -12,12 +12,9 @@
     <a href="https://www.facebook.com/belikedarshan/"><img
             src="https://img.shields.io/badge/FACEBOOK-3D5B97?style=for-the-badge&logo=facebook&logoColor=white"
             alt="Facebook" /></a>&nbsp;
-    <a href="https://www.twitter.com/Darshan90388127"><img
+    <a href="https://www.twitter.com/dv64bit"><img
             src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
             alt="Twitter" /></a>&nbsp;
-    <a href="https://wa.me/qr/O3DBH6KV5RMQD1"><img
-            src="https://img.shields.io/badge/WHATSAPP-e4fce3?style=for-the-badge&logo=whatsapp&logoColor=white alt="
-            HashNode" /></a>&nbsp;
 </p>
 <br />
 
@@ -30,7 +27,7 @@
 
 - 📫 How to reach me **darshanverma2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SY5MkO-XiSnzViDTbt7X-Bat3x4wdbpH/view?usp=drivesdk](https://drive.google.com/file/d/1SY5MkO-XiSnzViDTbt7X-Bat3x4wdbpH/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dKRE45PeluGGWVD2HDJjmtLwWgwCDstf/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am Dedicated for my work.**
 <br />
