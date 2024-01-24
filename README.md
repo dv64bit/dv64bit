@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome!;My+Name+is+Darshan+Verma)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=F79919&center=true&vCenter=true&random=false&width=435&lines=Welcome!;My+Name+is+Darshan+Verma)](https://git.io/typing-svg)
 <p align="center">
     <a href="https://www.linkedin.com/in/dv64bit/"><img
             src="https://img.shields.io/badge/linkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
