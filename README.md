@@ -1,4 +1,4 @@
-<span>
+<span align="center">
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=F79919&center=true&vCenter=true&random=false&width=435&lines=Welcome!;My+Name+is+Darshan+Verma)](https://git.io/typing-svg)
 
