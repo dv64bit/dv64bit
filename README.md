@@ -112,7 +112,7 @@ opportunity to grow in my career while concurrently contributing to the developm
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dv64bit&label=Profile%20views&color=0e75b6&style=flat" alt="dv64bit" /> </p>
 
-<p align="left"> <a href="https://twitter.com/darshan90388127" target="blank"><img src="https://img.shields.io/twitter/follow/darshan90388127?logo=twitter&style=for-the-badge" alt="darshan90388127" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dv64bit" target="blank"><img src="https://img.shields.io/twitter/follow/dv64bit?logo=twitter&style=for-the-badge" alt="dv64bit" /></a> </p>
 
 
 
