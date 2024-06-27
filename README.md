@@ -91,7 +91,6 @@ opportunity to grow in my career while concurrently contributing to the developm
 
  <br>
 <h2 align="center">📊Stats</h2>
-<a href="https://app.daily.dev/dv64bit"><img src="https://api.daily.dev/devcards/v2/fdPqvggOhVNNXLPNtrxia.png?r=si7&type=default" width="356" alt="Darshan Verma's Dev Card"/></a>
 <a href="https://app.daily.dev/dv64bit"><img src="https://api.daily.dev/devcards/537ae5edec5e48549cb0a3b97145fdd6.png?r=nbe" width="400" alt="Darshan Verma's Dev Card"/></a>
 
 [![](https://github-readme-stats.vercel.app/api?username=dv64bit&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
