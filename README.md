@@ -1,8 +1,4 @@
-<p align="center">
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=600&color=F7AB36&vCenter=true&random=false&width=435&lines=.......Welcome!.......;Hello%2CI+am+Darshan+Verma)](https://git.io/typing-svg)
 
-</p>
 <p align="center">
     <a href="https://www.linkedin.com/in/dv64bit/"><img
             src="https://img.shields.io/badge/linkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
