@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://znap.link/dv64bit](https://znap.link/dv64bit)
 
-- 📝 I regularly write articles on [https://blockchain64bit.blogspot.com/](https://blockchain64bit.blogspot.com/)
+- 📝 I sometime write articles on [https://blockchain64bit.blogspot.com/](https://blockchain64bit.blogspot.com/)
 
 - 📫 How to reach me **darshanverma2002@gmail.com**
 
