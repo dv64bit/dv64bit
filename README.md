@@ -15,7 +15,7 @@
 </p>
 <br />
 
-<p>Pursuing B.Tech Computer Science Engineering from ADYPU, Pune</p>
+<p>Graduated in B.Tech Computer Science Engineering from ADYPU, Pune</p>
 - 🌱 I’m currently learning **Web Development, DSA, Cloud Technology**
 
 - 👨‍💻 All of my projects are available at [https://znap.link/dv64bit](https://znap.link/dv64bit)
