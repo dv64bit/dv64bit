@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **darshanverma2002@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1854NWg9uAUr_brKJlDDBvfFvRsKn71U7/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-260yfqUh3RrRix9V8KdFlZj0uh6Klin/view?usp=drive_link))
 
 - ⚡ Fun fact **I think I am Dedicated for my work.**
 <br />
